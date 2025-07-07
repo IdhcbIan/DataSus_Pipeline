@@ -27,22 +27,11 @@ No mundo perfeito isso é tudo que você precisaria saber, mas em muitos casos t
 - **Visualização em Saúde**: Criando gráficos relevantes para pesquisa médica
 - **Estratégias para Dados Ausentes**: Lidando com registros médicos incompletos
 
-## 🎯 Caminho de Aprendizagem
 
-1. **Comece com `Pandas_Tutorial.ipynb`** para aprender o básico
-2. **Avance para `Datasus_Analysis.ipynb`** para ver pandas em ação com dados reais de saúde
-3. **Pratique** modificando o código e fazendo novas perguntas sobre os dados
+# Contato
 
-## 💊 Por Que Isso É Importante para a Farmacologia
+Entre em contato!!
 
-A pesquisa farmacológica moderna depende muito da análise de dados:
-- **Análise de Ensaios Clínicos**: Processar dados de pacientes e resultados de tratamentos
-- **Monitoramento de Segurança de Medicamentos**: Analisar padrões de eventos adversos
-- **Eficácia de Tratamentos**: Comparar diferentes abordagens terapêuticas
-- **Saúde Populacional**: Entender como medicamentos funcionam em diferentes grupos
-- **Reprodutibilidade de Pesquisa**: Documentar e compartilhar métodos analíticos
+- Email: idhcb.ian@gmail.com
+- Site: [iansmainframe.com](http://iansmainframe.com)
 
-## 🚀 Como Começar
-
-### Pré-requisitos
-Certifique-se de ter estas bibliotecas Python instaladas:
