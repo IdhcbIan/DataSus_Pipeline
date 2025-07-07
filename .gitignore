@@ -2,4 +2,6 @@
 
 .vscode
 **/Chem
+**/.tmp
+datasus.*
 
